@@ -1,0 +1,150 @@
+{
+    "ret": true,
+    "data": {
+        "data": {
+            "city": "仪陇"
+        },
+        "swiperList": [
+            {
+                "thumb": "static/zdjq.jpg",
+                "url": "static/zdjq.jpg"
+            },
+            {
+                "thumb": "static/swiper/map.thumb.jpg",
+                "url": "static/swiper/map.jpg"
+            },
+            {
+                "thumb": "static/swiper/intro1.thumb.jpg",
+                "url": "static/swiper/intro1.jpg"
+            },
+            {
+                "thumb": "static/swiper/intro2.thumb.jpg",
+                "url": "static/swiper/intro2.jpg"
+            },
+            {
+                "thumb": "static/swiper/intro3.thumb.jpg",
+                "url": "static/swiper/intro3.jpg"
+            }
+        ],
+        "iconList": [
+            {
+                "id": "0001",
+                "imgUrl": "static/icon/A级景区.png",
+                "desc": "A级景区",
+                "url": "#/detailPic/0001"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "static/icon/红色旅游.png",
+                "desc": "红色旅游",
+                "url": "#/detailPic/0002"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "static/icon/乡村游.png",
+                "desc": "乡村游",
+                "url": "#/detail/0003"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "static/icon/新玩法.png",
+                "desc": "新玩法",
+                "url": "#/detail/0004"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "static/icon/美食.png",
+                "desc": "美食",
+                "url": "#/shop/food"
+            },
+            {
+                "id": "0006",
+                "imgUrl": "static/icon/酒店.png",
+                "desc": "酒店",
+                "url": "#/shop/hotel"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "static/icon/经典线路.png",
+                "desc": "经典线路",
+                "url": "#/line"
+            },
+            {
+                "id": "0008",
+                "imgUrl": "static/icon/购物.png",
+                "desc": "购物",
+                "url": "#/shop/commodity"
+            },
+            {
+                "id": "0009",
+                "imgUrl": "static/icon/景区客流.png",
+                "desc": "景区客流",
+                "url": "#/flow"
+            },
+            {
+                "id": "0010",
+                "imgUrl": "static/icon/景区导览.png",
+                "desc": "景区导览",
+                "url": "#/navigation"
+            },
+            {
+                "id": "0011",
+                "imgUrl": "static/icon/语音导游.png",
+                "desc": "语音导游",
+                "url": "#/audio"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "static/icon/旅游投诉.png",
+                "desc": "旅游投诉",
+                "url": "#/feedback"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "0004",
+                "imgUrl": "static/news/new4.jpg",
+                "title": "缅怀先烈重温历史 南充仪陇用红色迎接国庆",
+                "desc": "",
+                "url": "http://zhudeguli.com/article/info_news/9ca9e866-7627-4d60-b3eb-a1cf6de2fa03.html"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "static/news/new2.jpg",
+                "title": "关于朱德故居纪念园、朱德铜像纪念园调整开放时间的公告",
+                "desc": "",
+                "url": "http://zhudeguli.com/article/info_notice/1de1f65d-2484-47e5-abfb-0f73bc7a6a63.html"
+            }
+        ],
+        "weekendList": [
+            {
+                "id": "0001",
+                "imgUrl": "static/scenic/0001.jpg",
+                "title": "朱德同志故居纪念馆",
+                "desc": "",
+                "url": "http://zhudeguli.com/article/tour_area/192fcfae-b1a7-4d7c-ae3a-c6f33f68b94b.html"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "static/scenic/0002.jpg",
+                "title": "丁氏庄园",
+                "desc": "",
+                "url": "http://zhudeguli.com/article/tst_travel/d64ff850-3c84-43d2-97e9-0e67c57bd6f7.html"
+            },
+            {
+                "id": "0103",
+                "imgUrl": "static/ypyss.jpg",
+                "title": "药铺垭私塾",
+                "desc": "",
+                "url": "http://zhudeguli.com/article/tour_point/884167b0-5b8c-4096-858d-f33473652610.html"
+            },
+            {
+                "id": "0104",
+                "imgUrl": "static/zsdjny.jpg",
+                "title": "张思德纪念馆",
+                "desc": "",
+                "url": "http://www.zsdjng.com/templets/default/ziye/jng.php"
+            }
+        ]
+    }
+}

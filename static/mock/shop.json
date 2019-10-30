@@ -1,0 +1,550 @@
+{
+    "commodity":[
+        {
+            "title": "朱德故里情歌碟",
+            "img": "static/commodity/zdglqgd.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/89fd8bed-9c82-4eed-adc1-d624f570e87b.html"
+        },
+        {
+            "title": "朱德像",
+            "img": "static/commodity/zdx.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/aca1cc6e-eaf9-4225-9f15-db8e83cce84c.html"
+        },
+        {
+            "title": "朱德纪念金、银币",
+            "img": "static/commodity/朱德纪念金、银币.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/31f0e77e-88ba-4e5a-ad87-4c62725ab4df.html"
+        },
+        {
+            "title": "中国红瓷朱德像（小）",
+            "img": "static/commodity/中国红瓷朱德像（小）.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/6ea660ba-ca5d-4a05-b24f-896f7807ed75.html"
+        },
+        {
+            "title": "中国红瓷朱德像（大）",
+            "img": "static/commodity/中国红瓷朱德像（大）.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/f8162dd2-c0ee-412b-bda1-0094bffeffda.html"
+        },
+        {
+            "title": "中国红瓷朱德纪念章",
+            "img": "static/commodity/中国红瓷朱德纪念章.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/1a191384-b325-4b31-8c3f-a6ad8456874a.html"
+        },
+        {
+            "title": "元帅军衔套装",
+            "img": "static/commodity/元帅军衔套装.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/550ca403-5544-4916-9638-c15ed221003a.html"
+        },
+        {
+            "title": "景德镇朱德像瓷盘",
+            "img": "static/commodity/景德镇朱德像瓷盘.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/35a68dc7-a89d-4dc4-a4e1-a49f9f83cd0b.html"
+        },
+        {
+            "title": "镀金朱德像",
+            "img": "static/commodity/镀金朱德像.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/30117ef2-4bff-459c-9c35-247d488d6801.html"
+        },
+        {
+            "title": "镀金铜像朱德像章",
+            "img": "static/commodity/镀金铜像朱德像章.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/31b88e26-8f0d-4cac-a3bb-8ad0f3d4cebb.html"
+        },
+        {
+            "title": "纯金朱德像",
+            "img": "static/commodity/纯金朱德像.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/5b9efba3-acaf-4851-9f64-38fbfb97d166.html"
+        },
+        {
+            "title": "朱德故里纪念茶杯",
+            "img": "static/commodity/朱德故里纪念茶杯.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/5dca0eca-3986-401a-ad60-4da9e03cdf6b.html"
+        },
+        {
+            "title": "朱德故里真丝领带围巾套装",
+            "img": "static/commodity/朱德故里真丝领带围巾套装.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/55a68bfb-910d-4c3d-b0b8-cc257e4c3e2c.html"
+        },
+        {
+            "title": "开国元勋朱德同志真丝邮册",
+            "img": "static/commodity/开国元勋朱德同志真丝邮册.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/c006d0d1-4177-4827-bf6d-3cb99eaa3088.html"
+        },
+        {
+            "title": "朱德银质纪念章",
+            "img": "static/commodity/朱德银质纪念章.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/3096f447-0dec-440c-9b9c-c2a909e8c62b.html"
+        },
+        {
+            "title": "中国红色经典之旅护照",
+            "img": "static/commodity/中国红色经典之旅护照.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/9cb671d7-bab8-4f1e-a1dc-cf3e1609064f.html"
+        },
+        {
+            "title": "葫芦",
+            "img": "static/commodity/葫芦.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/698756b7-d4cf-42cf-bd58-bb149c06d9da.html"
+        },
+        {
+            "title": "朱德故居留恋纪念品",
+            "img": "static/commodity/朱德故居留恋纪念品.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/1b993cf4-f8a1-4701-a396-312836bd9b56.html"
+        },
+        {
+            "title": "朱德像钥匙扣",
+            "img": "static/commodity/朱德像钥匙扣.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/d6de5db5-0ff3-4d09-bc24-7118021d8f35.html"
+        },
+        {
+            "title": "竹简-人民的光荣",
+            "img": "static/commodity/竹简-人民的光荣.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/4eae102c-d4b8-44b8-93c6-371986ae1095.html"
+        },
+        {
+            "title": "朱德元帅铜像",
+            "img": "static/commodity/朱德元帅铜像.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/e8e85ba6-3720-469b-a751-bdf600e96f2a.html"
+        },
+        {
+            "title": "真丝睡衣",
+            "img": "static/commodity/真丝睡衣.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/b1c9b477-25dc-4236-9b92-4f127a3df6f7.html"
+        },
+        {
+            "title": "仪陇县中味榨菜",
+            "img": "static/commodity/仪陇县中味榨菜.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/960f3ab6-fd97-49a1-b355-5053e22905b9.html"
+        },
+        {
+            "title": "仪陇特产黑鸡蛋",
+            "img": "static/commodity/仪陇特产黑鸡蛋.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/a386d929-51e5-4261-8af6-9309c8b1a9c6.html"
+        },
+        {
+            "title": "仪陇银明黄酒",
+            "img": "static/commodity/仪陇银明黄酒.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/6d738e67-3683-4f7f-9c50-cdfbca0560d1.html"
+        },
+        {
+            "title": "仪陇胭脂萝卜",
+            "img": "static/commodity/仪陇胭脂萝卜.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/00ae9f3e-b50a-4c96-ba4f-2ed64a5f8ca6.html"
+        },
+        {
+            "title": "仪陇特产吉星生牌酱瓜",
+            "img": "static/commodity/仪陇特产吉星生牌酱瓜.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/552dc549-febb-451e-9f96-e55795fdc4a2.html"
+        },
+        {
+            "title": "仪陇特产松花皮蛋",
+            "img": "static/commodity/仪陇特产松花皮蛋.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/d70d8e56-ebf1-4bc6-9b8b-51864b52455e.html"
+        },
+        {
+            "title": "仪陇特产客家牛肉",
+            "img": "static/commodity/仪陇特产客家牛肉.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/0d3bd078-298e-49fa-9b2f-3b5e758ae501.html"
+        },
+        {
+            "title": "仪陇特产哈哥兔",
+            "img": "static/commodity/仪陇特产哈哥兔.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/2f2a4ade-1999-4037-9641-6cb6a0970fe8.html"
+        },
+        {
+            "title": "仪陇丁缸酒",
+            "img": "static/commodity/仪陇丁缸酒.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/358ab7a8-ec73-4682-b61f-6d144bb04231.html"
+        },
+        {
+            "title": "川北客家手工面",
+            "img": "static/commodity/川北客家手工面.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/9e6dd160-2ede-437d-9d63-afa90b7ece44.html"
+        },
+        {
+            "title": "真丝领带领花礼盒",
+            "img": "static/commodity/真丝领带领花礼盒.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/17694ae0-a6c7-4952-a814-30d56078ad51.html"
+        },
+        {
+            "title": "仪陇剪纸",
+            "img": "static/commodity/中国民间文化艺术之乡--仪陇剪纸.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/678e76e2-f034-4ab1-bfb1-d130f18f5706.html"
+        },
+        {
+            "title": "陇县葡萄",
+            "img": "static/commodity/四川仪陇县：捕捉葡萄“丰收的喜悦”.png",
+            "url": "http://zhudeguli.com/article/tst_shopping/60a8a686-5300-4ab1-a4b5-a29fe3df363c.html"
+        },
+        {
+            "title": "仪陇酱瓜",
+            "img": "static/commodity/仪陇酱瓜将贴上地理标志保护产品专用标识.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/ca0956a1-31ac-464b-8af8-bf05fef21fba.html"
+        },
+        {
+            "title": "仪陇武棚本地火龙果",
+            "img": "static/commodity/仪陇武棚本地火龙果熟了.jpeg",
+            "url": "http://zhudeguli.com/article/tst_shopping/4eda9c7a-7058-462b-8670-14869096a938.html"
+        },
+        {
+            "title": "仪陇篆刻",
+            "img": "static/commodity/仪陇篆刻.jpg",
+            "url": "http://zhudeguli.com/article/tst_shopping/7c0f6605-93bc-4037-97de-19ff98e666ff.html"
+        }
+    ],
+
+    "hotel": [
+        {
+            "title": "花园酒店（三星级）",
+            "img": "static/hotel/hyjd.jpg",
+            "url": "http://zhudeguli.com/mct/f75942b4-ece2-4880-a53a-38868978d4ad.html?type=1",
+            "sw": [106.30126,31.26385]
+        },
+        {
+            "title": "上鼎酒店",
+            "img": "static/hotel/sdjd.png",
+            "url": "http://zhudeguli.com/mct/d8e26504-e89d-4fab-878d-1a201a5e34c7.html?type=1",
+            "sw": [106.29294,31.26404]
+        },
+        {
+            "title": "忆德国际大酒店（四星级）",
+            "img": "static/hotel/ydgjdjd.jpg",
+            "url": "http://zhudeguli.com/mct/464f4fba-1b88-449e-bc07-c6ea5e469fee.html?type=1",
+            "sw": [106.30633,31.26836]
+        },
+        {
+            "title": "名华酒店",
+            "img": "static/hotel/mhjd.jpg",
+            "url": "http://zhudeguli.com/mct/f61e2d5a-720d-41c4-ac44-55ea7244224b.html?type=1",
+            "sw": []
+        },
+        {
+            "title": "德琳酒店",
+            "img": "static/hotel/德琳酒店.jpg",
+            "url": "http://zhudeguli.com/mct/afc0fd74-ec0d-491b-9a97-f8e189c3bf44.html?type=1",
+            "sw": []
+        },
+        {
+            "title": "佳泰酒店",
+            "img": "static/hotel/佳泰酒店.jpg",
+            "url": "http://zhudeguli.com/mct/b42c3118-618e-44f5-a40c-02b5f04e9b6f.html?type=1",
+            "sw": []
+        },
+        {
+            "title": "老支书客栈（民宿）",
+            "img": "static/hotel/老支书客栈（民宿）.jpg",
+            "url": "http://zhudeguli.com/mct/beeec939-0710-44f6-af0f-fda426c044f9.html?type=1",
+            "sw": [106.38692,31.498384]
+        },
+        {
+            "title": "川北院子（民宿）",
+            "img": "static/hotel/川北院子（民宿）.jpg",
+            "url": "http://zhudeguli.com/mct/e3e41c95-4e7f-46ad-a3d8-177f8de6c0f0.html?type=1",
+            "sw": [106.608991,31.460624]
+        },
+        {
+            "title": "领地国际酒店（四星级）",
+            "img": "static/hotel/领地国际酒店（四星级）.jpg",
+            "url": "http://zhudeguli.com/mct/a73d23d3-b6d3-4a80-a251-f2eca35a3ea9.html?type=1",
+            "sw": [106.3006,31.27168]
+        },
+        {
+            "title": "德润大酒店",
+            "img": "static/hotel/德润大酒店.jpg",
+            "url": "http://zhudeguli.com/mct/545de0e5-dafb-4068-8550-32a398afe474.html?type=1",
+            "sw": []
+        }
+    ],
+
+    "food": [
+
+        {
+            "title": "老支书客栈",
+            "img": "static/food/lzskz.jpg",
+            "url": "http://zhudeguli.com/mct/0dcd4628-0667-4efb-aba3-ce96aaaf1c70.html?type=2",
+            "sw":[106.38692,31.498384]
+        },
+        {
+            "title": "川北院子",
+            "img": "static/food/cbyz.jpg",
+            "url": "http://zhudeguli.com/mct/43a31a97-3243-4cf5-91a6-06376ac1ff2e.html?type=2",
+            "sw":[106.30633,31.26836]
+        },
+        {
+            "title": "丁氏庄园农家乐",
+            "img": "static/food/dszyljn.jpg",
+            "url": "http://zhudeguli.com/mct/82b6b93e-4a06-4130-9f23-d80065855209.html?type=2",
+            "sw": [106.595547,31.45749]
+        },
+        {
+            "title": "轿顶山农家乐",
+            "img": "static/food/jdsljn.jpg",
+            "url": "http://zhudeguli.com/mct/8912f59f-3bfd-4168-b1e6-bcd99bd90545.html?type=2",
+            "sw": [106.38692,31.498384]
+        },
+        {
+            "title": "春龙兔子面馆",
+            "img": "",
+            "url": "",
+            "sw": [106.29726,31.270226]
+        },
+        {
+            "title": "王妈手撕烤免店",
+            "img": "",
+            "url": "",
+            "sw": [106.296855,31.26734]
+        },
+        {
+            "title": "有茗塘鱼馆",
+            "img": "",
+            "url": "",
+            "sw": [106.292079,31.265608]
+        },
+        {
+            "title": "贵妃楼",
+            "img": "",
+            "url": "",
+            "sw": [106.301587,31.264784]
+        },
+        {
+            "title": "南粉北面",
+            "img": "",
+            "url": "",
+            "sw": [106.303042,31.271562]
+        },
+        {
+            "title": "滨江河鲜",
+            "img": "",
+            "url": "",
+            "sw": [106.292159,31.265383]
+        },
+        {
+            "title": "木木餐厅",
+            "img": "",
+            "url": "",
+            "sw": [106.295332,31.265365]
+        },
+        {
+            "title": "方锅盔",
+            "img": "",
+            "url": "",
+            "sw": [106.305157,31.263782]
+        },
+        {
+            "title": "短尾巴玉兔王",
+            "img": "",
+            "url": "",
+            "sw": [106.307837,31.271665]
+        },
+        {
+            "title": "回归园私房菜",
+            "img": "",
+            "url": "",
+            "sw": [106.308212,31.272809]
+        },
+        {
+            "title": "胜昌木盆鱼",
+            "img": "",
+            "url": "",
+            "sw": [106.625548,31.470269]
+        },
+        {
+            "title": "亨牛火锅",
+            "img": "",
+            "url": "",
+            "sw": [106.308188,31.272732]
+        },
+        {
+            "title": "鱼摆摆",
+            "img": "",
+            "url": "",
+            "sw": [106.290963,31.267986]
+        },
+        {
+            "title": "五斗柴火锅",
+            "img": "",
+            "url": "",
+            "sw": [106.309074,31.273591]
+        },
+        {
+            "title": "乌仔香锅",
+            "img": "",
+            "url": "",
+            "sw": [106.293013,31.266891]
+        },
+        {
+            "title": "张三锅干锅店",
+            "img": "",
+            "url": "",
+            "sw": [106.292845,31.275316]
+        },
+        {
+            "title": "怡香园 ",
+            "img": "",
+            "url": "",
+            "sw": [106.303028,31.262887]
+        },
+        {
+            "title": "望江阁私房菜",
+            "img": "",
+            "url": "",
+            "sw": [106.290163,31.268652]
+        },
+        {
+            "title": "嗨捞涮火锅",
+            "img": "",
+            "url": "",
+            "sw": [106.292046,31.265663]
+        },
+        {
+            "title": "德乡缘中餐 ",
+            "img": "",
+            "url": "",
+            "sw": [106.292671,31.266236]
+        },
+        {
+            "title": "海上山火锅",
+            "img": "",
+            "url": "",
+            "sw": [106.405492,31.510085]
+        },
+        {
+            "title": "楼外楼风味酒店",
+            "img": "",
+            "url": "",
+            "sw": [105.896729,30.985035]
+        },
+        {
+            "title": "胖鱼头",
+            "img": "",
+            "url": "",
+            "sw": [106.291782,31.266109]
+        },
+        {
+            "title": "品鉴印象川菜",
+            "img": "",
+            "url": "",
+            "sw": [106.289734,31.269342]
+        },
+        {
+            "title": "安溪潮农家乐",
+            "img": "",
+            "url": "",
+            "sw": [106.408371,31.521818]
+        },
+        {
+            "title": "德来顺饭店",
+            "img": "",
+            "url": "",
+            "sw": [106.62621,31.467933]
+        },
+        {
+            "title": "祺山休闲农庄",
+            "img": "",
+            "url": "",
+            "sw": [106.583758,31.4630870]
+        },
+        {
+            "title": "川北院子",
+            "img": "",
+            "url": "",
+            "sw": [106.608991,31.460624]
+        },
+        {
+            "title": "琳琅人家农家乐",
+            "img": "",
+            "url": "",
+            "sw": [106.606409,31.4669750]
+        },
+        {
+            "title": "轿顶山农家乐",
+            "img": "",
+            "url": "",
+            "sw": [106.38692,31.498384]
+        },
+        {
+            "title": "月亮田农家乐",
+            "img": "",
+            "url": "",
+            "sw": [106.600015,31.461749]
+        },
+        {
+            "title": "朱家客栈",
+            "img": "",
+            "url": "",
+            "sw": [106.60955,31.4696730]
+        },
+
+
+        {
+            "title": "烟袋山 ",
+            "img": "",
+            "url": "",
+            "sw": [106.38692,31.498384]
+        },
+        {
+            "title": "琼娃子风味酒楼",
+            "img": "",
+            "url": "",
+            "sw": [106.405167,31.515039]
+        },
+        {
+            "title": "南山庭院",
+            "img": "",
+            "url": "",
+            "sw": [106.30633,31.515039]
+        },
+        {
+            "title": "张家院子",
+            "img": "",
+            "url": "",
+            "sw": [106.399667,31.530868]
+        },
+        {
+            "title": "五福驴庄",
+            "img": "",
+            "url": "",
+            "sw": [106.418755,31.409678]},
+        {
+            "title": "陈眼镜羊肉馆",
+            "img": "",
+            "url": "",
+            "sw": [106.4642470,31.340974]
+        },
+        {
+            "title": "君来山庄",
+            "img": "",
+            "url": "",
+            "sw": [106.412674,31.409506]
+        },
+        {
+            "title": "七鱼园休闲山庄",
+            "img": "",
+            "url": "",
+            "sw": [106.412674,31.409506]
+        },
+        {
+            "title": "世外桃园",
+            "img": "",
+            "url": "",
+            "sw": [106.448926,31.507929]
+        },
+        {
+            "title": "庆丰农庄",
+            "img": "",
+            "url": "",
+            "sw": [106.4446,31.50794]
+        },
+        {
+            "title": "三蛟镇帅乡红酒店",
+            "img": "",
+            "url": "",
+            "sw": [106.40557,31.59754]
+        },
+        {
+            "title": "唐庄鱼荟",
+            "img": "",
+            "url": "",
+            "sw": [106.431764,31.609453]
+        }
+    ]
+}

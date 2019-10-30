@@ -1,0 +1,340 @@
+{
+    "ret": true,
+    "data": {
+        "0001": {
+            "sightName": "A级景区",
+            "bannerImg": "static/zdjq.jpg",
+            "gallaryImgs": [
+                "static/zdjq.jpg"
+            ],
+            "categoryList": [
+                {
+                    "title": "朱德故居全景展示",
+                    "url": "http://ewm.zhudeguli.com/quanjing/",
+                    "img": "static/zdjq.jpg"
+                },
+                {
+                    "title": "张思德纪念馆全景展示",
+                    "url": "https://www.expoon.com/e/zwjr44oca2i/",
+                    "img": "static/zsdjny.jpg"
+                },
+                {
+                    "title": "朱德同志故居纪念馆",
+                    "url": "http://zhudeguli.com/article/tour_point/6f5200a3-ae62-4370-8344-a5de3bfc3f32.html",
+                    "img": "static/detail/朱德同志故居纪念馆.jpg"
+                },
+                {
+                    "title": "朱德故居",
+                    "url": "http://zhudeguli.com/article/tour_point/3f1b6dc2-966e-410b-90f0-4f8941916a14.html",
+                    "img": "static/detail/朱德故居.jpg"
+                },
+                {
+                    "title": "朱德诞生地",
+                    "url": "http://zhudeguli.com/article/tour_point/26345354-318e-4844-bec9-1989b5fe6e53.html",
+                    "img": "static/detail/朱德诞生地.jpg"
+                },
+                {
+                    "title": "丁氏庄园",
+                    "url": "http://zhudeguli.com/article/tour_point/a930d34a-3e9a-4457-8a90-c45ceaca1ffd.html",
+                    "img": "static/detail/丁氏庄园.jpg"
+                },
+                {
+                    "title": "朱德父母故居",
+                    "url": "http://zhudeguli.com/article/tour_point/85b34b03-5fcf-4d8d-a0de-d7a56070a0dc.html",
+                    "img": "static/detail/朱德父母故居.jpg"
+                },
+                {
+                    "title": "药铺垭私塾",
+                    "url": "http://zhudeguli.com/article/tour_point/884167b0-5b8c-4096-858d-f33473652610.html",
+                    "img": "static/detail/药铺垭私塾.jpg"
+                },
+                {
+                    "title": "朱德生父朱世林墓地",
+                    "url": "http://zhudeguli.com/article/tour_point/fac21328-2011-484f-ac6d-6cc1fd7536da.html",
+                    "img": "static/detail/朱德生父朱世林墓地.jpg"
+                },
+                {
+                    "title": "朱德生母钟太夫人墓地",
+                    "url": "http://zhudeguli.com/article/tour_point/250ee20b-d099-4268-8061-fde7597e6e22.html",
+                    "img": "static/detail/朱德生母钟太夫人墓地.jpg"
+                }
+
+            ]
+        },
+        "0002": {
+            "sightName": "红色旅游",
+            "bannerImg": "static/zsdjny.jpg",
+            "gallaryImgs": [
+                "static/zsdjny.jpg"
+            ],
+            "categoryList": [
+                {
+                    "title": "朱德故居",
+                    "url": "http://zhudeguli.com/article/tour_point/3f1b6dc2-966e-410b-90f0-4f8941916a14.html",
+                    "img": "static/detail/zdgj.jpg"
+                },
+                {
+                    "title": "张思德纪念馆",
+                    "url": "http://www.zsdjng.com/templets/default/ziye/jng.php",
+                    "img": "static/detail/zsdjng.jpg"
+                },
+                {
+                    "title": "将军山红军战斗纪念地",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0916/359.html",
+                    "img": "static/detail/jjshjzdjnd.png"
+                },
+                {
+                    "title": "老三篇石刻",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0916/366.html",
+                    "img": "static/detail/lspsk.png"
+                },
+                {
+                    "title": "张思德故居",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0916/355.html",
+                    "img": "static/detail/zsdgj.png"
+                },
+                {
+                    "title": "长胜县苏维埃政府遗址",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0910/322.html",
+                    "img": "static/detail/csxswazfyz.png"
+                },
+                {
+                    "title": "长胜县苏维埃保卫局旧址",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0916/357.html",
+                    "img": "static/detail/csxswabwjjz.png"
+                },
+                {
+                    "title": "同家庙红军石刻",
+                    "url": "http://www.zsdjng.com/a/hongsewenwu/2015/0916/361.html",
+                    "img": "static/detail/tjmhjsk.png"
+                },
+                {
+                    "title": "苏维埃政府旧址",
+                    "url": "",
+                    "img": ""
+                },
+                {
+                    "title": "国防教育园",
+                    "url": "",
+                    "img": ""
+                }
+            ]
+        },
+        "0003": {
+            "sightName": "乡村游",
+            "bannerImg": "static/zsdjny.jpg",
+            "gallaryImgs": [
+                "static/zsdjny.jpg"
+            ],
+            "categoryList": [
+                {
+                    "title": "仪陇古村落",
+                    "url": "",
+                    "children": [
+                        {
+                            "title": "新政老街",
+                            "url": ""
+                        },
+                        {
+                            "title": "丁氏庄园",
+                            "url": ""
+                        },
+                        {
+                            "title": "万众村",
+                            "url": ""
+                            
+                        },
+                        {
+                            "title": "亮垭村",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "龙神垭村",
+                            "url": ""
+                        },
+                        {
+                            "title": "高堂沟村",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "荣光村",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "潮水坝村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "雷加坝村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "肖家梁村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "红庙子村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "建华村",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "险岩村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "铁山村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "龙呈寨村",
+                            "url": ""                    
+                        },
+                        {
+                            "title": "长胜村",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "大仪山",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "仪陇报恩寺",
+                            "url": ""                  
+                        },
+                        {
+                            "title": "君来山庄",
+                            "url": ""                   
+                        },
+                        {
+                            "title": "烟袋山",
+                            "url": ""                    
+                        },                
+                        {
+                            "title": "仙女山",
+                            "url": ""                   
+                        },               
+                        {
+                            "title": "仙女湖",
+                            "url": ""                   
+                        },                
+                        {
+                            "title": "乐兴老街",
+                            "url": ""                    
+                        } ,               
+                        {
+                            "title": "大寅古镇",
+                            "url": ""                  
+                        },               
+                        {
+                            "title": "南海新村",
+                            "url": ""                 
+                        },
+                        {
+                            "title": "立山寨",
+                            "url": ""                 
+                        },
+                        {
+                            "title": "马鞍红军街",
+                            "url": ""
+                        },
+                        {
+                            "title": "客家民俗街",
+                            "url": ""              
+                        },
+                        {
+                            "title": "伏羲山",
+                            "url": ""                  
+                        }
+                    ]
+                },
+                {
+                    "title": "农创旅游",
+                    "url": "",
+                    "children": [
+                        {
+                            "title": "花椒小镇",
+                            "url": ""
+                        },
+                        {
+                            "title": "德乡仪品特色街区",
+                            "url": ""
+                        },
+                        {
+                            "title": "工业旅游示范基地",
+                            "url": ""
+                        },
+                        {
+                            "title": "月光经济酒吧街",
+                            "url": ""
+                        },
+                        {
+                            "title": "客家名宿博览园",
+                            "url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "0004": {
+            "sightName": "新玩法",
+            "bannerImg": "static/zsdjny.jpg",
+            "gallaryImgs": [
+                "static/zsdjny.jpg"
+            ],
+            "categoryList": [
+                {
+                    "title": "网红打卡",
+                    "url": ""
+                },
+                {
+                    "title": "康养",
+                    "url": ""
+                },
+                {
+                    "title": "采摘",
+                    "url": ""
+                },
+                {
+                    "title": "美食",
+                    "url": ""
+                },
+                {
+                    "title": "特产",
+                    "url": ""
+                },
+                {
+                    "title": "传统工艺园",
+                    "url": ""
+                },
+                {
+                    "title": "非遗",
+                    "url": ""
+                },
+                {
+                    "title": "川东北文化",
+                    "url": ""
+                },
+                {
+                    "title": "德乡仪品特色街区",
+                    "url": ""
+                },
+                {
+                    "title": "月光经济酒吧街",
+                    "url": ""
+                },
+                {
+                    "title": "工业旅游基地",
+                    "url": ""
+                },
+                {
+                    "title": "三条沟村研学旅游基地",
+                    "url": ""
+                }
+            ]
+        }
+
+    }
+}
